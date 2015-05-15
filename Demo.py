@@ -1,0 +1,1 @@
+print "This is the first demo for GIT"
